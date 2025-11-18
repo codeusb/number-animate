@@ -1,5 +1,9 @@
 {
   "name": "number-animate",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "private": false,
   "type": "module",
   "module": "./dist/number-animate.js",
